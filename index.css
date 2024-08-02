@@ -1,0 +1,57 @@
+body{
+    background-color: black;
+}
+section{
+    border: 1px solid red;
+    background-color: rgb(87, 216, 156);
+
+}
+header{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 150px; 
+    background-color: rgb(148, 93, 22);
+    text-align: center;
+    margin: 10px;
+}
+div{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 70px; 
+    margin-right: 1000px;
+    background-color: rgb(57, 22, 155);
+    text-align: center;
+    
+
+}
+
+main{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 600px; 
+    background-color: aqua;
+    
+    margin: 10px;
+}
+
+footer{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 150px; 
+    background-color: rgb(250, 3, 56);
+    
+    margin: 10px;
+}
+article{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 80px; 
+    background-color: rgb(187, 56, 56);
+    
+    margin: 10px;
+}
+.uno{
+    border: 1px solid rgb(42, 160, 77); 
+    height: 70px; 
+    margin-right: 1000px;
+    background-color: rgb(57, 22, 155);
+    text-align: center;
+}
+    
+
+

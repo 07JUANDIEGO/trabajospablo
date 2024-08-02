@@ -1,0 +1,97 @@
+
+section{
+    border: 1px solid red;
+    background-color: rgb(87, 216, 156);
+
+}
+header{
+    
+    height: 150px; 
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 10px;
+}
+div{
+    border: 1px solid rgb(0, 0, 0); 
+    height: 70px; 
+    margin-right: 1000px;
+    background-color: rgb(57, 22, 155);
+    text-align: center;
+    
+
+}
+
+main{
+    border: 1px solid rgb(0, 0, 0); 
+    height: 600px; 
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin: 10px;
+}
+
+footer{
+    border: 1px solid rgb(66, 37, 37); 
+    
+    background-color: rgb(201, 57, 57);
+    display: flex;
+    
+}
+
+
+
+nav{
+    border: 1px solid rgb(255, 255, 255); 
+    height: 50px; 
+    background-color: rgb(47, 0, 156);
+    text-align: center;
+    
+
+}
+.articulo1{
+    border: 1px solid rgb(46, 46, 54); 
+    height: 570px; 
+    background-color: rgb(48, 42, 42);
+    margin: 10px;
+    width: 400px;
+    
+}
+.articulo2{
+    border: 1px solid rgb(59, 66, 62); 
+    height: 570px; 
+    background-color: rgb(63, 56, 56);
+    margin: 10px;
+    
+    width: 1500px;
+}
+.art1{
+    border: 1px solid rgb(46, 46, 54); 
+    height: 150px; 
+    background-color: rgb(48, 42, 42);
+    margin: 10px;
+    width: 400px;
+    
+}
+.art2{
+    border: 1px solid rgb(46, 46, 54); 
+    height: 150px; 
+    background-color: rgb(48, 42, 42);
+    margin: 10px;
+    width: 400px;
+    
+} 
+.art3{
+    border: 1px solid rgb(46, 46, 54); 
+    height: 150px; 
+    background-color: rgb(48, 42, 42);
+    margin: 10px;
+    width: 400px;
+    
+}
+.art4{
+    border: 1px solid rgb(46, 46, 54); 
+    height: 150px; 
+    background-color: rgb(48, 42, 42);
+    margin: 10px;
+    width: 400px;
+    
+}
