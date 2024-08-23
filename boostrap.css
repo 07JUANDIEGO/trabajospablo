@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+.header1{
+    height: 10vh;
+    width: 100%;
+}
+.carousel-inner{
+    height: 80vh;
+    min-height: 300px;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.figure{
+    text-align: center;
+    justify-content: center;
+}
